@@ -1,4 +1,3 @@
-# US-SEC-10K-Webscraper-and-Sectioning
 # Automated 10K Web Scraper
 
 This project utilizes tools such as Selenium to create an automated web scraper that fetches the latest filed 10K report of any registered company with the US SEC (U.S. Securities and Exchange Commission). The content of the report is then parsed and sectioned using regular expressions (REGEX).
@@ -34,4 +33,4 @@ The primary goal of this project is to automate the process of retrieving and ex
 
 1. Clone this repository using:
    ```sh
-   git clone https://github.com/cielo112/US-SEC-10K-Webscraper-and-Sectioning.git
+   git clone https://github.com/cielo112/Automated-10K-Webscraper.git
